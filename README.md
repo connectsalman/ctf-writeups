@@ -7,6 +7,7 @@ Writeups of smart contract security challenges. Each writeup explains the goal, 
 |-------|------|-----|
 | 1 | [Fallback](ethernaut/01-fallback.md) | Ownership can be taken through `receive()` |
 | 2 | [Fallout](ethernaut/02-fallout.md) | Misspelled constructor is a public function |
+| 3 | [Coin Flip](ethernaut/03-coin-flip.md) | Randomness from block data is predictable |
 | 4 | [Telephone](ethernaut/04-telephone.md) | `tx.origin` used for authorization |
 
 More levels coming.
