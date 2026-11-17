@@ -9,5 +9,7 @@ Writeups of smart contract security challenges. Each writeup explains the goal, 
 | 2 | [Fallout](ethernaut/02-fallout.md) | Misspelled constructor is a public function |
 | 3 | [Coin Flip](ethernaut/03-coin-flip.md) | Randomness from block data is predictable |
 | 4 | [Telephone](ethernaut/04-telephone.md) | `tx.origin` used for authorization |
+| 5 | [Token](ethernaut/05-token.md) | Integer underflow in old Solidity |
+| 6 | [Delegation](ethernaut/06-delegation.md) | `delegatecall` lets a caller change storage |
 
 More levels coming.
